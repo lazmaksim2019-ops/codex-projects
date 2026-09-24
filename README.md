@@ -15,6 +15,11 @@
 ## Deployment
 
 Ветка `main` подключена к Vercel project `codex-projects` с автоматическим production-деплоем.
+## Live demo
+
+Актуальная production-версия: [codex-projects-iota.vercel.app](https://codex-projects-iota.vercel.app).
+
+
 
 ## Быстрый старт
 
