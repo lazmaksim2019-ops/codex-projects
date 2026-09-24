@@ -4,9 +4,7 @@
 
 ## Live demo
 
-Актуальная production-версия: [codex-projects-iota.vercel.app](https://codex-projects-iota.vercel.app).
-
-Репозиторий: [github.com/lazmaksim2019-ops/codex-projects](https://github.com/lazmaksim2019-ops/codex-projects).
+Актуальная версия: [codex-projects-iota.vercel.app](https://codex-projects-iota.vercel.app).
 
 ## Что реализовано
 
@@ -51,7 +49,7 @@ Browser smoke tests покрывают основной пользователь
 
 ## Данные
 
-Backend не используется. Приложение работает только с тестовыми данными, которые сохраняются в `localStorage` под ключом `projects-showcase-data-v1`.
+Backend не используется. Приложение работает только с тестовыми данными, которые сохраняются в `localStorage`.
 
 ## AI-assisted development
 
