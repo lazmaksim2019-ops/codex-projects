@@ -12,9 +12,9 @@
 - Playwright + Chromium для browser smoke-тестов
 - Vercel для production-деплоя из ветки `main`
 
-## Демо
+## Deployment
 
-Опубликованная версия: [codex-projects.vercel.app](https://codex-projects.vercel.app).
+Ветка `main` подключена к Vercel project `codex-projects` с автоматическим production-деплоем.
 
 ## Быстрый старт
 
